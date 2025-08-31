@@ -1,6 +1,6 @@
 #########################################
 # Pikpak's Ruleset
-# Size: 7
+# Size: 9
 #########################################
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
